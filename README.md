@@ -1,7 +1,7 @@
 # Hi there, I'm Rohit Sahu 👋
-
-### 🎯 Focusing
-> Complexity should be treated softly 😊 | DevOps Engineer | SRE | Cloud Engineer 
+- 🌱 I’m currently exploring ** eBPF based Projects **.
+- 💬 Ask me about **SRE/DevOps/Cloud Engineering -- System Design and DSA **.
+- 📫 How to reach me: **rohitsahu.srms@gmail.com**
 
 ---
 
@@ -31,6 +31,7 @@
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" alt="SQL" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Git" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png" alt="Go" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png" alt="Django" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" alt="Docker" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="Terminal" width="40" height="40"/>
@@ -38,11 +39,4 @@
 </p>
 
 
-### 📈 GitHub Stats
-![Rohit's GitHub stats](https://github-readme-stats.vercel.app/api?username=imRohitSahu&show_icons=true&theme=radical)
 
----
-
-- 🌱 I’m currently learning **eBPF and Golang Projects**.
-- 💬 Ask me about **SRE/DevOps/Cloud Engineering -- System Design and DSA **.
-- 📫 How to reach me: **rohitsahu.srms@gmail.com**
